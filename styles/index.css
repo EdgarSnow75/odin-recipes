@@ -1,0 +1,23 @@
+body {
+    background-color: #212529;
+}
+
+h1 {
+    font-family: "JetBrains Mono", "Inconsolata", monospace;
+    text-align: center;
+    color: #ffffff;
+    font-size: 3rem;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3.5rem;
+}
+
+.links a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #ff9f1c;
+}
